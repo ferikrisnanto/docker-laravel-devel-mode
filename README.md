@@ -9,3 +9,7 @@ Install Docker & Docker Compose
 
 $ docker-compose build
 $ docker-compose run
+
+Install Laravel
+- like install laravel on documentation
+
